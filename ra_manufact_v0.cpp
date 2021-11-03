@@ -9,7 +9,7 @@ Servo serv_3;
 Servo serv_4;
 Servo serv_5;
 
-const int S0 = 2;
+const int S0 =2;
 const int S1=3;
 const int S2=4;
 const int S3=12;

@@ -130,9 +130,9 @@ void mefRAupdate(void)
 		serv_5.write(100);
 
 
-
 		flag_color=0;
 		flag_pres =0;
+
 		ra_State=bt_init;
 		break;
 
