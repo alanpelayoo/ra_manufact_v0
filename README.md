@@ -1,3 +1,5 @@
 # ra_manufact_v0
-Proyecto Control Computarizado 2do Parcial, Brazo Robótico para uso industrial. 
-El archivo principal es ra_manufact_v0.cpp y de ahí se van cargando en cascada los demas archivos source y header files. 
+
+Finite-State Machine structure applied in a conveyor system, implemented to automate the conveyor using the RAv0 (check external links to review this git), and color detection system, for industrial use.
+
+The main file is ra_manufact_v0.cpp.
